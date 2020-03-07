@@ -27,7 +27,7 @@ If this dataset was useful to you, we suggest citing this paper () with the foll
 ```
 @article{afroMNIST,
   title={Afro-MNIST: Synthetic Generation of MNIST-style datasets for low-resource languages},
-  author={Wu, Daniel and Yang, Andrew and Prabhu, Vinay},
+  author={Daniel J Wu and Andrew C Yang and Vinay Prabhu},
   journal={arXiv},
   year={2020}
 }
