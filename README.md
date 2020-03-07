@@ -6,9 +6,15 @@ Each dataset contains 60000 training examples and 10000 test examples. Each data
 ## Usage
 
 1. Download the datasets:
+
+a. Through git-lfs (First install git-lfs [here](https://github.com/git-lfs/git-lfs/wiki/Installation)):
 ```bash
 git clone https://github.com/Daniel-Wu/AfroMNIST.git
 ```
+
+b. Kaggle (TBD)
+
+c. Zenodo (TBD)
 
 2. Load in the datasets:
 ```python
